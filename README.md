@@ -6,8 +6,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me: **Github Message**
-- 
+- 📫 How to reach me: **Github Messages**
+
 - ⚡ Fun fact **I lived in 5 continents**
 
 
