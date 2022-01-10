@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Almanie</h1>
+<h3 align="center">A passionate Backend Developer</h3>
 
-
-- 🔭 I’m currently working on [OfferEx](https://github.com/cupOJ/OfferEx)
-
-- 🌱 I’m currently learning **React Native and Android SDK**
+<!-- - 🔭 I’m currently working on [OfferEx](https://github.com/cupOJ/OfferEx) -->
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📫 How to reach me **Github**
-
+- 📫 How to reach me: **Github Message**
+- 
 - ⚡ Fun fact **I lived in 5 continents**
 
 
