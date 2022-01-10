@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Almanie</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A Passionate Backend Developer</h3>
 
 <!-- - 🔭 I’m currently working on [OfferEx](https://github.com/cupOJ/OfferEx) -->
 - 🌱 I’m currently learning **Ruby on Rails**
