@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- ⚡ Fun fact **Shawarama is my only food source**
+- ⚡ Fun fact **Shawarma is my only food source**
  
 <br>
  
